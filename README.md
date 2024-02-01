@@ -1,4 +1,4 @@
-# P n°08 - Anticiper la consommation électrique
+# Projet n°08 - Anticiper la consommation électrique
 
 **o** Objectif: construire un modèle de prédiction.
 
